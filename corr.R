@@ -19,4 +19,4 @@ corr <- function(directory, threshold = 0)
         output
 }
 
-## TESTS
+## TESTS ####
